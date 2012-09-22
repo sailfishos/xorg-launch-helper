@@ -1,0 +1,9 @@
+* Sat Sep 22 2012 Carsten Munk <carsten.munk@jollamobile.com> _ c42516e
+- Suit to Mer uses
+
+* Mon Aug  6 2012 Anas Nashif <anas.nashif@intel.com> c42516e
+- enable additional options from sysconfig
+* Mon Jun 25 2012 Chris E Ferron <chris.e.ferron@linux.intel.com> 14df14b
+- inital commit
+* Thu Jun  7 2012 Hyesook Choi <hs20.choi@samsung.com> e132786
+- Initial empty repository
